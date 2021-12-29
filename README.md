@@ -3,6 +3,6 @@
 
 test 123 thank you
 
-<img src="docs/assets/images/rcm_picture.jpeg" alt="Image description" width="200" height="220">
+<img src="docs/assets/images/rcm_picture.jpeg" alt="Image description" width="200" height="210">
 
 <h2> header two </2>
