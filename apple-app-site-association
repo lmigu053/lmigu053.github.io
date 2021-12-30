@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "346A9QKS8Z.com.LuisOrgIdentifier.MyBudgetApp"
+        ],
+        "components": [
+          {
+            "/": "*lmigu053*",
+            "comment": "Matches any URL whose path starts with /buy/"
+          }
+        ]
+      }
+    ]
+  }
+}
