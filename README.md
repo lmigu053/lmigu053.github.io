@@ -1,7 +1,7 @@
 # MyBudgetWebApp
 
 <h1> My Header </h1>
-<h2> My Header </h2>
+<h1> My Header </h1>
 
 <img src="docs/assets/images/rcm_picture.jpeg" alt="Image description" width="300" height="160">
 
